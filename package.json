@@ -8,8 +8,11 @@
   },
   "scripts": {
     "test": "jest",
-    "start": "node index.js"
+    "test:coverage": "jest --coverage",
+    "test:verbose": "jest --verbose",
+    "test:all": "jest --coverage --verbose"
   },
+ 
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Omrironen4/Team-profile-generator.git"

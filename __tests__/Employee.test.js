@@ -18,7 +18,6 @@ describe("Employee", () => {
     describe("getName method", () => {
         it("should get employee name", () => {
             const employee = new Employee(name, id, email);
-
             expect(employee.getName()).toEqual("dude");
         })
     });
@@ -26,7 +25,6 @@ describe("Employee", () => {
     describe("getId method", () => {
         it("should get employee ID", () => {
             const employee = new Employee(name, id, email);
-
             expect(employee.getId()).toEqual("111")
         })
     })
@@ -34,14 +32,12 @@ describe("Employee", () => {
 describe("getEmail method", () => {
     it("should get employee email", () => {
         const employee = new Employee(name, id, email);
-
         expect(employee.email).toEqual("example@gmail.com")
     })
 });
 describe("getId method", () => {
     it("should get employee role", () => {
         const employee = new Employee(name, id, email);
-
         expect(employee.getRole()).toEqual("Employee")
     })
 });
