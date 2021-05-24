@@ -11,6 +11,7 @@ Generates a professional work team with their information using cli.
 - Javascript
 
 ## Walk-through Video 
+- https://drive.google.com/file/d/1hpMaBBVDdHFFgOdIcqxTtb3qPh3eDpMa/view
 - https://drive.google.com/file/d/1dsZHH7-OZaSvAhphNfKffGshVB0Iu8X-/view
 
 
