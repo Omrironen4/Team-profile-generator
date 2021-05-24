@@ -17,4 +17,4 @@ Generates a professional work team with their information using cli.
 
 
 <img width="1362" alt="Screen Shot 2021-05-24 at 10 36 45 AM" src="https://user-images.githubusercontent.com/72667204/119386199-0cb3ab00-bc7c-11eb-92e6-4ea5a44175ff.png">
-![Screen Shot 2021-05-24 at 10 37 03 AM](https://user-images.githubusercontent.com/72667204/119386204-0e7d6e80-bc7c-11eb-8813-07c51db9231d.png)
+<img width="1170" alt="Screen Shot 2021-05-24 at 10 44 45 AM" src="https://user-images.githubusercontent.com/72667204/119386930-1558b100-bc7d-11eb-916f-d371507bd7ed.png">
